@@ -11,7 +11,7 @@ if (!$conn) {
     die("La conexión a MySQL falló: " . mysqli_connect_error());
 }
 
-$db = "php_proyecto";
+$db = "id21370980_php_proyecto";
 
 // Consulta SQL para crear la base de datos si no existe
 $sql = "CREATE DATABASE IF NOT EXISTS $db";
