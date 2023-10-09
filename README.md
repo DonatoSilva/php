@@ -18,7 +18,7 @@ Employee CRUD es una aplicación web que permite el registro, edición, eliminac
 - [Requerimiento](#requerimientos)
 - [Esquema digital](#esquema-digital)
 - [Demostracion](#demostracion)
-- [Tecnologia](#tecnologia)
+- [Tecnologia](#tecnologías)
 - [Contacto](#contacto)
 
 ## Requerimientos
@@ -62,7 +62,7 @@ Para este proyecto, se realizó un prototipo antes de empezar a codificar, donde
 
 ## Demostracion
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=KB4S9aRO7Vw&ab_channel=jesusdonatosilvafigueroa" frameborder="0" allowfullscreen></iframe>
+[Ver video](https://www.youtube.com/watch?v=KB4S9aRO7Vw&ab_channel=jesusdonatosilvafigueroa)
 
 ## Tecnologías
 
