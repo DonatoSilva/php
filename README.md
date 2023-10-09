@@ -7,9 +7,11 @@
 
 **Demo:** [employee page](https://employee-crud.000webhostapp.com/php_crud/index.php)
 
+> 🪧La demo contine errores que al trabajar en local no se dieron
+
 ## Descripcion
 
-Employee CRUD es una aplicacion web que permite el registro, edicion, eliminacion y visualizacion de empleados. Este proyecto está creado para dar finalidad a una actividad de la Universidad donde estoy estudiando (UNAD), desarrollado en colaboracion de Ulises Calderon Herran (compañero de carrera), persona capaz y consiente de gran parte tecnica a la hora de trabajar en equipo encargado de guiar el desarrollo por medio de una metodologia tradicional.
+Employee CRUD es una aplicación web que permite el registro, edición, eliminación y visualización de empleados. 🧑‍💼 Este proyecto está creado para dar finalidad a una actividad de la Universidad donde estoy estudiando (UNAD), desarrollado en colaboración con Ulises Calderón Herrán (compañero de carrera), persona capaz y consciente de gran parte técnica a la hora de trabajar en equipo. 👏 Se ha utilizado una metodología tradicional para guiar el desarrollo del proyecto. 📊
 
 ## Tabla de contenidos
 
@@ -22,22 +24,22 @@ Employee CRUD es una aplicacion web que permite el registro, edicion, eliminacio
 ## Requerimientos
 
 **Funcionales:** <br>
-- El sitio web debe mostrar los botones para la gestión de datos de los empleados.
-- El sistema debe permitir, al hacer clic en Agregar Empleado, recoger los datos personales del nuevo empleado en un formulario con los siguientes datos: Código, Nombre, Apellido, Documento de identidad, Dirección, Teléfono, en una base de datos para el registro.
-- El sistema debe permitir hacer clic en la lista de empleados para mostrar los empleados existentes en la base de datos.
-- El sistema debe permitir modificar el empleado en la base de datos al hacer clic en Actualizar Empleado.
-- El sistema debe permitir eliminar el empleado de la base de datos al hacer clic en Eliminar Empleado.
-- El sistema debe permitir hacer clic en Buscar Empleado para mostrar la información del empleado en la base de datos.
-- El sistema debe permitir estar vinculado a una base de datos. 
+- El sitio web debe mostrar los botones para la gestión de datos de los empleados. 👥
+- El sistema debe permitir, al hacer clic en Agregar Empleado, recoger los datos personales del nuevo empleado en un formulario con los siguientes datos: Código, Nombre, Apellido, Documento de identidad, Dirección, Teléfono, y guardarlos en una base de datos para el registro. 📝
+- El sistema debe permitir hacer clic en Lista de Empleados para mostrar los empleados existentes en la base de datos. 📋
+- El sistema debe permitir modificar el empleado en la base de datos al hacer clic en Actualizar Empleado. 🔄
+- El sistema debe permitir eliminar el empleado de la base de datos al hacer clic en Eliminar Empleado. 🗑️
+- El sistema debe permitir hacer clic en Buscar Empleado para mostrar la información del empleado en la base de datos. 🔎
+- El sistema debe estar vinculado a una base de datos. 🔗
 
 **No funcionales** <br>
-- El sistema debe permanecer activo hasta que el usuario cierre la sección.
-- El sistema permite el acceso simultáneo desde otro terminal.
-- El sistema debe funcionar en cualquier sistema operativo.
+- El sistema debe permanecer activo hasta que el usuario cierre la sesión. 🔒
+- El sistema permite el acceso simultáneo desde otro terminal. 🖥️
+- El sistema debe funcionar en cualquier sistema operativo. 💻
 
 ## Esquema digital
 
-Para este proyecto se desarrollo antes de empezar a codificar se realizo un prototipo donde se busco que todas las funciones del CRUD estuvieran a la mano y fuera sencillo de usar, simpre cumpliendo los requerimientos que se tienen para este proyecto, dicho esquema digital o prototipo se realizo en figma, donde se busco antes de usar que todos los integrantes del grupo estuvieran deacuerdo del diseño y su navegacion entre funciones. <br>
+Para este proyecto, se realizó un prototipo antes de empezar a codificar, donde se buscó que todas las funciones del CRUD estuvieran a la mano y fuera sencillo de usar, siempre cumpliendo los requerimientos que se tienen para este proyecto. 🚀 Dicho esquema digital o prototipo se realizó en Figma, donde se buscó que todos los integrantes del grupo estuvieran de acuerdo con el diseño y su navegación entre funciones. 🖥️ <br>
 
 1. Visualizar todos los empleado (Inicio):
 ![List Employees][List]
