@@ -42,15 +42,19 @@ Employee CRUD es una aplicación web que permite el registro, edición, eliminac
 Para este proyecto, se realizó un prototipo antes de empezar a codificar, donde se buscó que todas las funciones del CRUD estuvieran a la mano y fuera sencillo de usar, siempre cumpliendo los requerimientos que se tienen para este proyecto. 🚀 Dicho esquema digital o prototipo se realizó en Figma, donde se buscó que todos los integrantes del grupo estuvieran de acuerdo con el diseño y su navegación entre funciones. 🖥️ <br>
 
 1. Visualizar todos los empleado (Inicio):
+
 ![List Employees][List]
 <br>
 2. Vista de como se debe ver al Agregar un nuevo empleado:
+
 ![Add Employees][Add]
 <br>
 3. Vista de como se debe ver al Editar la informacion de un empleado:
+
 ![Update Employees][Update]
 <br>
 4. Vista del cuadro de confirmacion a la hora de eliminar un empleado:
+
 ![Delete Employees][Delete]
 <br>
 5. Vista de como se debe ver a la hora de realizar una busqueda
