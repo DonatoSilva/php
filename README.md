@@ -11,7 +11,7 @@
 
 ## Descripcion
 
-Employee CRUD es una aplicación web que permite el registro, edición, eliminación y visualización de empleados. 🧑‍💼 Este proyecto está creado para dar finalidad a una actividad de la Universidad donde estoy estudiando (UNAD), desarrollado en colaboración con Ulises Calderón Herrán (compañero de carrera), persona capaz y consciente de gran parte técnica a la hora de trabajar en equipo. 👏 Se ha utilizado una metodología tradicional para guiar el desarrollo del proyecto. 📊
+Employee CRUD es una aplicación web que permite el registro, edición, eliminación y visualización de empleados. 🧑‍💼 Este proyecto está creado para dar finalidad a una actividad de la Universidad donde estoy estudiando (UNAD), desarrollado en colaboración con [Ulises Calderón Herrán](https://github.com/Uli979) (compañero de carrera), persona capaz y consciente de gran parte técnica a la hora de trabajar en equipo. 👏 Se ha utilizado una metodología tradicional para guiar el desarrollo del proyecto. 📊
 
 ## Tabla de contenidos
 
