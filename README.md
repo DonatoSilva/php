@@ -5,7 +5,7 @@
 
 **Tiempo promedio de desarrollo:** 1 día 6 horas
 
-**Demo:** [employee page](https://employee-crud.000webhostapp.com/php_crud/index.php)
+**Demo:** [employee page](https://employee-crud.000webhostapp.com/)
 
 > 🪧La demo contine errores que al trabajar en local no se dieron
 
